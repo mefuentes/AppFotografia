@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354123172332",
+    "firebase_url": "https://misfotografias-930bf.firebaseio.com",
+    "project_id": "misfotografias-930bf",
+    "storage_bucket": "misfotografias-930bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354123172332:android:58274a7736cb20c19798c9",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354123172332-ei50lsp0uskv53ac267pdprkhq3jbhmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZRXTAWG9yOe-NAf0vhctuGb7wLVTONk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354123172332-ei50lsp0uskv53ac267pdprkhq3jbhmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
